@@ -114,7 +114,7 @@ Estudante de Sistemas de Informação na Unilasalle. Tenho interesse em desenvol
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBraslavsky&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBraslavsky&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
 
 </p>
