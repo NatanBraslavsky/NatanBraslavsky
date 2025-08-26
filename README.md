@@ -2,15 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou um estudante de Sistemas de Informação de 20 anos, sempre fui curioso sobre tecnologia e motivado a entender o funcionamento por trás das coisas. Possuo forte vontade de aprender e crescer profissionalmente.
+Sou estudante de Sistemas de Informação, 20 anos, curioso por tecnologia e sempre buscando entender como tudo funciona por trás do código.
 
-Iniciei na programação aos 18 anos, adquirindo uma base sólida em lógica de programação(Python, C, Java), HTML, CSS e JavaScript, utilizo ferramentas como Git/GitHub para versionamento de código e Figma para prototipagem e colaboração em interfaces. Atualmente, estou aprofundando meus conhecimentos em React e estou me preparando para atuar como um Desenvolvedor Full Stack.
+Tenho base sólida em Python, C, Java, HTML, CSS e JavaScript, utilizo Git/GitHub e Figma, e atualmente aprofundo meus estudos em Next.Js e React para atuar como Desenvolvedor Full Stack. Durante a graduação, tenho contato com Banco de Dados (SQL), Desenvolvimento Web, Estrutura de Dados, Orientação a Objetos, UI/UX e etc.
 
-Durante a graduação de Sistemas de informação, tenho tido contato com diversas áreas da computação, incluindo Banco de Dados (modelagem e SQL), Desenvolvimento Web(Javascript, HTML, CSS, Python|Django), C | Java, análise orientada a objetos, estrutura de dados, gestão da informação, UI/UX, análise de requisitos e etc.
-
-Atuei como gerente em um projeto voluntário no laboratório UnityLab, que opera no gerenciamento de equipes que desenvolvem sistemas para entretenimento, treinamento e apoio ao tratamento de doenças utilizando a Unity Engine, onde eu auxiliei as equipes de desenvolvedores pra implementação desses sistemas.
-
-Meu ponto forte é a rapidez para aprender e a boa comunicação, características que me permitem colaborar bem em equipe e me adaptar a novos desafios. Estou em busca de uma oportunidade de estágio onde eu possa contribuir, evoluir tecnicamente e crescer junto com a empresa.
+Participei de um projeto voluntário no UnityLab, aplicando metodologias ágeis Scrum e Kanban no desenvolvimento de sistemas com a Unity Engine. Busco uma oportunidade de estágio para aprender, contribuir e crescer junto com a equipe.
 
 ---
 
