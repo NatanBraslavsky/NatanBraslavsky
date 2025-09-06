@@ -4,7 +4,7 @@
 
 Sou estudante de Sistemas de Informação, 20 anos, curioso por tecnologia e sempre buscando entender como tudo funciona por trás do código.
 
-Tenho base sólida em Python, C, Java, HTML, CSS e JavaScript, utilizo Git/GitHub e Figma, e atualmente aprofundo meus estudos em Next.Js e React para atuar como Desenvolvedor Full Stack. Durante a graduação, tenho contato com Banco de Dados (SQL), Desenvolvimento Web, Estrutura de Dados, Orientação a Objetos, UI/UX e etc.
+Tenho base sólida em Python, C, Java, HTML, CSS e JavaScript, utilizo Git/GitHub e Figma, e atualmente aprofundo meus estudos em Next.Js, React e TailwindCSS para atuar como Desenvolvedor Full Stack. Durante a graduação, tenho contato com Banco de Dados (SQL), Desenvolvimento Web, Estrutura de Dados, Orientação a Objetos, UI/UX e etc.
 
 Participei de um projeto voluntário no UnityLab, aplicando metodologias ágeis Scrum e Kanban no desenvolvimento de sistemas com a Unity Engine. Busco uma oportunidade de estágio para aprender, contribuir e crescer junto com a equipe.
 
