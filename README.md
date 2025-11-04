@@ -2,11 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Sistemas de Informação, 20 anos, curioso por tecnologia e sempre buscando entender como tudo funciona por trás do código.
+Atualmente estou estagiando na área de Infraestrutura de TI no Grupo Iter, Holding responsável por grandes referências em turismo, como o Parque Bondinho Pão de Açúcar, o Parque do Caracol e o C2Rio.
 
-Tenho base sólida em Python, C, Java, HTML, CSS e JavaScript, utilizo Git/GitHub e Figma, e atualmente aprofundo meus estudos em Next.Js, React e TailwindCSS para atuar como Desenvolvedor Full Stack. Durante a graduação, tenho contato com Banco de Dados (SQL), Desenvolvimento Web, Estrutura de Dados, Orientação a Objetos, UI/UX e etc.
+Possuo projetos pessoais, acadêmicos e profissionais no meu Linkedin/GitHub, e estou sempre estudando sobre tecnologia, principalmente a área de Desenvolvimento de Software.
 
-Participei de um projeto voluntário no UnityLab, aplicando metodologias ágeis Scrum e Kanban no desenvolvimento de sistemas com a Unity Engine. Busco uma oportunidade de estágio para aprender, contribuir e crescer junto com a equipe.
+Meu objetivo é atuar na área de Desenvolvimento de Software, e venho me dedicando a projetos/estudos em tecnologias como: **React.js, Next.js, TailwindCSS, TypeScript e C# | .NET.**
+
+Acesse meu Linkedin para ver minhas experiências: https://www.linkedin.com/in/natanbraslavsky/
 
 ---
 
@@ -14,19 +16,43 @@ Participei de um projeto voluntário no UnityLab, aplicando metodologias ágeis 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
@@ -38,6 +64,15 @@ Participei de um projeto voluntário no UnityLab, aplicando metodologias ágeis 
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
@@ -46,60 +81,12 @@ Participei de um projeto voluntário no UnityLab, aplicando metodologias ágeis 
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-
 <br/>
 <br/>
 
