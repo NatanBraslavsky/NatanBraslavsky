@@ -2,11 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
+Sou uma pessoa comunicativa, analítica e determinada. Gosto de aprender, me desenvolver e encarar desafios. Tenho facilidade com lógica, comunicação e aprendizado, e tudo o que faço, busco fazer da melhor forma possível.
+
+Meu objetivo é atuar na área de Desenvolvimento de Software, e venho me dedicando a projetos/estudos em tecnologias como: React.js, Next.js, TailwindCSS, TypeScript e C# | .NET.
+
 Atualmente estou estagiando na área de Infraestrutura de TI no Grupo Iter, Holding responsável por grandes referências em turismo, como o Parque Bondinho Pão de Açúcar, o Parque do Caracol e o C2Rio.
 
 Possuo projetos pessoais, acadêmicos e profissionais no meu Linkedin/GitHub, e estou sempre estudando sobre tecnologia, principalmente a área de Desenvolvimento de Software.
 
-Meu objetivo é atuar na área de Desenvolvimento de Software, e venho me dedicando a projetos/estudos em tecnologias como: **React.js, Next.js, TailwindCSS, TypeScript e C# | .NET.**
 
 Acesse meu Linkedin para ver minhas experiências: https://www.linkedin.com/in/natanbraslavsky/
 
