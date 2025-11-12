@@ -108,7 +108,7 @@ Acesse meu Linkedin para ver minhas experiências: https://www.linkedin.com/in/n
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBraslavsky&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBraslavsky&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
   />
 
 </p>
