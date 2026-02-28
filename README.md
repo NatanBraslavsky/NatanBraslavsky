@@ -4,8 +4,6 @@
 
 Sou uma pessoa comunicativa, analítica e determinada. Gosto de aprender, me desenvolver e encarar desafios. Tenho facilidade com lógica, comunicação e aprendizado, e tudo o que faço, busco fazer da melhor forma possível.
 
-Meu objetivo é atuar na área de Desenvolvimento de Software, e venho me dedicando a projetos/estudos em tecnologias como: React.js, Next.js, TailwindCSS, TypeScript e C# | .NET.
-
 Atualmente estou estagiando na área de Desenvolvimento Web no CBPF.
 
 Possuo projetos pessoais, acadêmicos e profissionais no meu Linkedin/GitHub, e estou sempre estudando sobre tecnologia, principalmente a área de Desenvolvimento de Software.
