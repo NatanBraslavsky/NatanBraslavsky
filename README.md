@@ -88,9 +88,6 @@ Acesse meu Linkedin para ver minhas experiências: https://www.linkedin.com/in/n
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 
 <img 
     align="left" 
