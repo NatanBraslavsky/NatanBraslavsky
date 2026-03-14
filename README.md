@@ -25,7 +25,7 @@ Acesse meu Linkedin para ver minhas experiências: https://www.linkedin.com/in/n
 />
 <img 
     align="left" 
-    alt="React" 
+    alt="Next" 
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
@@ -33,7 +33,7 @@ Acesse meu Linkedin para ver minhas experiências: https://www.linkedin.com/in/n
 />
 <img 
     align="left" 
-    alt="React" 
+    alt="Typescript" 
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
@@ -49,7 +49,7 @@ Acesse meu Linkedin para ver minhas experiências: https://www.linkedin.com/in/n
 />
 <img 
     align="left" 
-    alt="React" 
+    alt="Tailwind" 
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
